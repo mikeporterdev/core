@@ -820,6 +820,8 @@ build.json @home-assistant/supervisor
 /tests/components/mystrom/ @fabaff
 /homeassistant/components/nam/ @bieniu
 /tests/components/nam/ @bieniu
+/homeassistant/components/nanodlp/ @mikeporterdev
+/tests/components/nanodlp/ @mikeporterdev
 /homeassistant/components/nanoleaf/ @milanmeu
 /tests/components/nanoleaf/ @milanmeu
 /homeassistant/components/neato/ @dshokouhi @Santobert

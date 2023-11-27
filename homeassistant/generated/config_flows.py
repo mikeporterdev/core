@@ -307,6 +307,7 @@ FLOWS = {
         "mysensors",
         "mystrom",
         "nam",
+        "nanodlp",
         "nanoleaf",
         "neato",
         "nest",

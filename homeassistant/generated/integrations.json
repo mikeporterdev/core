@@ -3673,6 +3673,12 @@
       "config_flow": false,
       "iot_class": "cloud_push"
     },
+    "nanodlp": {
+      "name": "NanoDLP",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "nanoleaf": {
       "name": "Nanoleaf",
       "integration_type": "hub",
